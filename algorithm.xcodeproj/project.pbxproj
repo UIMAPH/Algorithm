@@ -1,0 +1,394 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D49B512626A73CA6007ABC2E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D456D101282BD0860018080D /* 분해합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "분해합.cpp"; sourceTree = "<group>"; };
+		D456D102282BD0860018080D /* 이진수 표현.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "이진수 표현.cpp"; sourceTree = "<group>"; };
+		D456D103282BD0860018080D /* 스도쿠.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "스도쿠.cpp"; sourceTree = "<group>"; };
+		D456D104282BD0860018080D /* kakao-수식최대화.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-수식최대화.cpp"; sourceTree = "<group>"; };
+		D456D105282BD0860018080D /* 경사로.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "경사로.cpp"; sourceTree = "<group>"; };
+		D456D106282BD0860018080D /* kakao-키패드누르기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-키패드누르기.cpp"; sourceTree = "<group>"; };
+		D456D107282BD0860018080D /* 축구게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "축구게임.cpp"; sourceTree = "<group>"; };
+		D456D108282BD0860018080D /* kakao-사라지는 발판.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-사라지는 발판.cpp"; sourceTree = "<group>"; };
+		D456D109282BD0860018080D /* 가운데를 말해요.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "가운데를 말해요.cpp"; sourceTree = "<group>"; };
+		D456D10A282BD0860018080D /* 전화복구.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "전화복구.cpp"; sourceTree = "<group>"; };
+		D456D10B282BD0860018080D /* kakao-숫자문자열과영단어.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-숫자문자열과영단어.cpp"; sourceTree = "<group>"; };
+		D456D10C282BD0860018080D /* 1766-문제집.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1766-문제집.cpp"; sourceTree = "<group>"; };
+		D456D10D282BD0860018080D /* 경찰차.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "경찰차.cpp"; sourceTree = "<group>"; };
+		D456D10E282BD0860018080D /* 박성원.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "박성원.cpp"; sourceTree = "<group>"; };
+		D456D10F282BD0860018080D /* kakao-방배정하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-방배정하기.cpp"; sourceTree = "<group>"; };
+		D456D110282BD0860018080D /* 라면사기(small).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "라면사기(small).cpp"; sourceTree = "<group>"; };
+		D456D111282BD0860018080D /* kakao-거리두기 확인하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-거리두기 확인하기.cpp"; sourceTree = "<group>"; };
+		D456D112282BD0860018080D /* 부분 수열의 합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "부분 수열의 합.cpp"; sourceTree = "<group>"; };
+		D456D113282BD0860018080D /* 파이프 옮기기1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "파이프 옮기기1.cpp"; sourceTree = "<group>"; };
+		D456D114282BD0860018080D /* 구슬 탈출 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "구슬 탈출 2.cpp"; sourceTree = "<group>"; };
+		D456D115282BD0860018080D /* Battle Ship.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Battle Ship.cpp"; sourceTree = "<group>"; };
+		D456D116282BD0860018080D /* 짐정리.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "짐정리.cpp"; sourceTree = "<group>"; };
+		D456D117282BD0860018080D /* 숫자야구.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "숫자야구.cpp"; sourceTree = "<group>"; };
+		D456D118282BD0860018080D /* 낚시왕.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "낚시왕.cpp"; sourceTree = "<group>"; };
+		D456D119282BD0860018080D /* 연속합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "연속합.cpp"; sourceTree = "<group>"; };
+		D456D11A282BD0860018080D /* 사탕게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "사탕게임.cpp"; sourceTree = "<group>"; };
+		D456D11B282BD0860018080D /* kakao-경주로건설.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-경주로건설.cpp"; sourceTree = "<group>"; };
+		D456D11C282BD0860018080D /* 일곱난쟁이.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "일곱난쟁이.cpp"; sourceTree = "<group>"; };
+		D456D11D282BD0860018080D /* .rush01.c.swp */ = {isa = PBXFileReference; lastKnownFileType = file; path = .rush01.c.swp; sourceTree = "<group>"; };
+		D456D11E282BD0860018080D /* kakao-파괴되지 않은 건물.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-파괴되지 않은 건물.cpp"; sourceTree = "<group>"; };
+		D456D11F282BD0860018080D /* 가족 구성원찾기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "가족 구성원찾기.cpp"; sourceTree = "<group>"; };
+		D456D120282BD0860018080D /* 범인찾기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "범인찾기.cpp"; sourceTree = "<group>"; };
+		D456D121282BD0860018080D /* 유레카이론.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "유레카이론.cpp"; sourceTree = "<group>"; };
+		D456D122282BD0860018080D /* 중위순회.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "중위순회.cpp"; sourceTree = "<group>"; };
+		D456D123282BD0860018080D /* kakao-외벽점검.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-외벽점검.cpp"; sourceTree = "<group>"; };
+		D456D124282BD0860018080D /* 쉬운 거스름돈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "쉬운 거스름돈.cpp"; sourceTree = "<group>"; };
+		D456D125282BD0860018080D /* kakao-동굴탐험.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-동굴탐험.cpp"; sourceTree = "<group>"; };
+		D456D126282BD0860018080D /* kakao-광고삽입.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-광고삽입.cpp"; sourceTree = "<group>"; };
+		D456D127282BD0860018080D /* 새로운 불면증 치료법.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "새로운 불면증 치료법.cpp"; sourceTree = "<group>"; };
+		D456D128282BD0860018080D /* 동아리실 관리하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "동아리실 관리하기.cpp"; sourceTree = "<group>"; };
+		D456D129282BD0860018080D /* 체스판 다시 칠하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "체스판 다시 칠하기.cpp"; sourceTree = "<group>"; };
+		D456D12B282BD0860018080D /* 배럭.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "배럭.cpp"; sourceTree = "<group>"; };
+		D456D12C282BD0860018080D /* 습격자 초라기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "습격자 초라기.cpp"; sourceTree = "<group>"; };
+		D456D12D282BD0860018080D /* 객체.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "객체.cpp"; sourceTree = "<group>"; };
+		D456D12E282BD0860018080D /* 스팟마트.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "스팟마트.cpp"; sourceTree = "<group>"; };
+		D456D12F282BD0860018080D /* 오일러 회로.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "오일러 회로.cpp"; sourceTree = "<group>"; };
+		D456D130282BD0860018080D /* 가장 긴 증가하는 부분 수열 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "가장 긴 증가하는 부분 수열 5.cpp"; sourceTree = "<group>"; };
+		D456D131282BD0860018080D /* 평번한 배낭.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "평번한 배낭.cpp"; sourceTree = "<group>"; };
+		D456D132282BD0860018080D /* 피자 굽기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "피자 굽기.cpp"; sourceTree = "<group>"; };
+		D456D133282BD0860018080D /* kakao-2022.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-2022.cpp"; sourceTree = "<group>"; };
+		D456D134282BD0860018080D /* 불끄기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "불끄기.cpp"; sourceTree = "<group>"; };
+		D456D135282BD0860018080D /* 세진바이러스.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "세진바이러스.cpp"; sourceTree = "<group>"; };
+		D456D136282BD0860018080D /* kakao-양궁대회.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-양궁대회.cpp"; sourceTree = "<group>"; };
+		D456D137282BD0860018080D /* 오일러회로.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "오일러회로.cpp"; sourceTree = "<group>"; };
+		D456D138282BD0860018080D /* 시간여행자의 주식.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "시간여행자의 주식.cpp"; sourceTree = "<group>"; };
+		D456D139282BD0860018080D /* 격자판의숫자이어붙이기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "격자판의숫자이어붙이기.cpp"; sourceTree = "<group>"; };
+		D456D13A282BD0860018080D /* kakao-보석쇼핑.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "kakao-보석쇼핑.cpp"; sourceTree = "<group>"; };
+		D49B512826A73CA6007ABC2E /* algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D49B512526A73CA6007ABC2E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D456D100282BD0860018080D /* algorithm */ = {
+			isa = PBXGroup;
+			children = (
+				D456D101282BD0860018080D /* 분해합.cpp */,
+				D456D102282BD0860018080D /* 이진수 표현.cpp */,
+				D456D103282BD0860018080D /* 스도쿠.cpp */,
+				D456D104282BD0860018080D /* kakao-수식최대화.cpp */,
+				D456D105282BD0860018080D /* 경사로.cpp */,
+				D456D106282BD0860018080D /* kakao-키패드누르기.cpp */,
+				D456D107282BD0860018080D /* 축구게임.cpp */,
+				D456D108282BD0860018080D /* kakao-사라지는 발판.cpp */,
+				D456D109282BD0860018080D /* 가운데를 말해요.cpp */,
+				D456D10A282BD0860018080D /* 전화복구.cpp */,
+				D456D10B282BD0860018080D /* kakao-숫자문자열과영단어.cpp */,
+				D456D10C282BD0860018080D /* 1766-문제집.cpp */,
+				D456D10D282BD0860018080D /* 경찰차.cpp */,
+				D456D10E282BD0860018080D /* 박성원.cpp */,
+				D456D10F282BD0860018080D /* kakao-방배정하기.cpp */,
+				D456D110282BD0860018080D /* 라면사기(small).cpp */,
+				D456D111282BD0860018080D /* kakao-거리두기 확인하기.cpp */,
+				D456D112282BD0860018080D /* 부분 수열의 합.cpp */,
+				D456D113282BD0860018080D /* 파이프 옮기기1.cpp */,
+				D456D114282BD0860018080D /* 구슬 탈출 2.cpp */,
+				D456D115282BD0860018080D /* Battle Ship.cpp */,
+				D456D116282BD0860018080D /* 짐정리.cpp */,
+				D456D117282BD0860018080D /* 숫자야구.cpp */,
+				D456D118282BD0860018080D /* 낚시왕.cpp */,
+				D456D119282BD0860018080D /* 연속합.cpp */,
+				D456D11A282BD0860018080D /* 사탕게임.cpp */,
+				D456D11B282BD0860018080D /* kakao-경주로건설.cpp */,
+				D456D11C282BD0860018080D /* 일곱난쟁이.cpp */,
+				D456D11D282BD0860018080D /* .rush01.c.swp */,
+				D456D11E282BD0860018080D /* kakao-파괴되지 않은 건물.cpp */,
+				D456D11F282BD0860018080D /* 가족 구성원찾기.cpp */,
+				D456D120282BD0860018080D /* 범인찾기.cpp */,
+				D456D121282BD0860018080D /* 유레카이론.cpp */,
+				D456D122282BD0860018080D /* 중위순회.cpp */,
+				D456D123282BD0860018080D /* kakao-외벽점검.cpp */,
+				D456D124282BD0860018080D /* 쉬운 거스름돈.cpp */,
+				D456D125282BD0860018080D /* kakao-동굴탐험.cpp */,
+				D456D126282BD0860018080D /* kakao-광고삽입.cpp */,
+				D456D127282BD0860018080D /* 새로운 불면증 치료법.cpp */,
+				D456D128282BD0860018080D /* 동아리실 관리하기.cpp */,
+				D456D129282BD0860018080D /* 체스판 다시 칠하기.cpp */,
+				D456D12A282BD0860018080D /* greedy */,
+				D456D12C282BD0860018080D /* 습격자 초라기.cpp */,
+				D456D12D282BD0860018080D /* 객체.cpp */,
+				D456D12E282BD0860018080D /* 스팟마트.cpp */,
+				D456D12F282BD0860018080D /* 오일러 회로.cpp */,
+				D456D130282BD0860018080D /* 가장 긴 증가하는 부분 수열 5.cpp */,
+				D456D131282BD0860018080D /* 평번한 배낭.cpp */,
+				D456D132282BD0860018080D /* 피자 굽기.cpp */,
+				D456D133282BD0860018080D /* kakao-2022.cpp */,
+				D456D134282BD0860018080D /* 불끄기.cpp */,
+				D456D135282BD0860018080D /* 세진바이러스.cpp */,
+				D456D136282BD0860018080D /* kakao-양궁대회.cpp */,
+				D456D137282BD0860018080D /* 오일러회로.cpp */,
+				D456D138282BD0860018080D /* 시간여행자의 주식.cpp */,
+				D456D139282BD0860018080D /* 격자판의숫자이어붙이기.cpp */,
+				D456D13A282BD0860018080D /* kakao-보석쇼핑.cpp */,
+			);
+			path = algorithm;
+			sourceTree = "<group>";
+		};
+		D456D12A282BD0860018080D /* greedy */ = {
+			isa = PBXGroup;
+			children = (
+				D456D12B282BD0860018080D /* 배럭.cpp */,
+			);
+			path = greedy;
+			sourceTree = "<group>";
+		};
+		D49B511F26A73CA6007ABC2E = {
+			isa = PBXGroup;
+			children = (
+				D456D100282BD0860018080D /* algorithm */,
+				D49B512926A73CA6007ABC2E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D49B512926A73CA6007ABC2E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D49B512826A73CA6007ABC2E /* algorithm */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D49B512726A73CA6007ABC2E /* algorithm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D49B512F26A73CA6007ABC2E /* Build configuration list for PBXNativeTarget "algorithm" */;
+			buildPhases = (
+				D49B512426A73CA6007ABC2E /* Sources */,
+				D49B512526A73CA6007ABC2E /* Frameworks */,
+				D49B512626A73CA6007ABC2E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = algorithm;
+			productName = algorithm;
+			productReference = D49B512826A73CA6007ABC2E /* algorithm */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D49B512026A73CA6007ABC2E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					D49B512726A73CA6007ABC2E = {
+						CreatedOnToolsVersion = 12.5.1;
+					};
+				};
+			};
+			buildConfigurationList = D49B512326A73CA6007ABC2E /* Build configuration list for PBXProject "algorithm" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D49B511F26A73CA6007ABC2E;
+			productRefGroup = D49B512926A73CA6007ABC2E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D49B512726A73CA6007ABC2E /* algorithm */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D49B512426A73CA6007ABC2E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D49B512D26A73CA6007ABC2E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D49B512E26A73CA6007ABC2E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D49B513026A73CA6007ABC2E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D49B513126A73CA6007ABC2E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D49B512326A73CA6007ABC2E /* Build configuration list for PBXProject "algorithm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D49B512D26A73CA6007ABC2E /* Debug */,
+				D49B512E26A73CA6007ABC2E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D49B512F26A73CA6007ABC2E /* Build configuration list for PBXNativeTarget "algorithm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D49B513026A73CA6007ABC2E /* Debug */,
+				D49B513126A73CA6007ABC2E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D49B512026A73CA6007ABC2E /* Project object */;
+}
